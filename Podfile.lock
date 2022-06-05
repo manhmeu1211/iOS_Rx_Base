@@ -1,0 +1,93 @@
+PODS:
+  - Alamofire (5.4.1)
+  - Differentiator (5.0.0)
+  - IQKeyboardManagerSwift (6.5.9)
+  - MBProgressHUD (1.2.0)
+  - "NSObject+Rx (5.2.0)":
+    - RxSwift (~> 6.0.0)
+  - Reusable (4.1.1):
+    - Reusable/Storyboard (= 4.1.1)
+    - Reusable/View (= 4.1.1)
+  - Reusable/Storyboard (4.1.1)
+  - Reusable/View (4.1.1)
+  - RxAlamofire (6.0.0):
+    - RxAlamofire/Core (= 6.0.0)
+  - RxAlamofire/Core (6.0.0):
+    - Alamofire (~> 5.4)
+    - RxSwift (~> 6.0)
+  - RxCocoa (6.0.0):
+    - RxRelay (= 6.0.0)
+    - RxSwift (= 6.0.0)
+  - RxDataSources (5.0.0):
+    - Differentiator (~> 5.0)
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxGesture (4.0.2):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.0.0):
+    - RxSwift (= 6.0.0)
+  - RxSwift (6.0.0)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - SwiftKeychainWrapper (4.0.1)
+  - Then (2.7.0)
+  - Validator (3.2.1)
+
+DEPENDENCIES:
+  - Alamofire (= 5.4.1)
+  - IQKeyboardManagerSwift
+  - MBProgressHUD (= 1.2.0)
+  - "NSObject+Rx (= 5.2.0)"
+  - Reusable (= 4.1.1)
+  - RxAlamofire (= 6.0.0)
+  - RxCocoa (= 6.0.0)
+  - RxDataSources
+  - RxGesture (= 4.0.2)
+  - RxSwift (= 6.0.0)
+  - SDWebImage (= 5.10.4)
+  - SwiftKeychainWrapper (= 4.0.1)
+  - Then (= 2.7.0)
+  - Validator (= 3.2.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Differentiator
+    - IQKeyboardManagerSwift
+    - MBProgressHUD
+    - "NSObject+Rx"
+    - Reusable
+    - RxAlamofire
+    - RxCocoa
+    - RxDataSources
+    - RxGesture
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - SwiftKeychainWrapper
+    - Then
+    - Validator
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  Differentiator: e8497ceab83c1b10ca233716d547b9af21b9344d
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  "NSObject+Rx": 488b91a66043cc47de9cd5de9264f2ae1e2fcb13
+  Reusable: 53a9acf5c536f229b31b5865782414b508252ddb
+  RxAlamofire: 3cc9539633ba5039fb9eab3efefdd1b9bb1ee511
+  RxCocoa: 3f79328fafa3645b34600f37c31e64c73ae3a80e
+  RxDataSources: aa47cc1ed6c500fa0dfecac5c979b723542d79cf
+  RxGesture: f059f2aeef966fb17dad56ee440e76410f10e55f
+  RxRelay: 8d593be109c06ea850df027351beba614b012ffb
+  RxSwift: c14e798c59b9f6e9a2df8fd235602e85cc044295
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  SwiftKeychainWrapper: 807ba1d63c33a7d0613288512399cd1eda1e470c
+  Then: acfe0be7e98221c6204e12f8161459606d5d822d
+  Validator: 80a6f567220c962dfd2d9928ae98a8c1d164f6f4
+
+PODFILE CHECKSUM: a416b0cc5aeb0ff0088839ed9bb5a8b064ff9a2d
+
+COCOAPODS: 1.10.1
